@@ -1,0 +1,6 @@
+Initialize=Firefox,Goto=http://qc-wms.footballfanatics.com/,Clear=id=txtUN,insertText=id=txtUN=PMUIR,Clear=id=txtPW,insertText=id=txtPW=1234,click=id=Button1,Clear=id=searchOrder,insertText=id=searchOrder=19058972,click=id=Button1,
+Initialize=Firefox,Goto=http://qc-wms.footballfanatics.com/,Clear=id=txtUN,insertText=id=txtUN=PMUIR,Clear=id=txtPW,insertText=id=txtPW=1234,click=id=Button1,Clear=id=searchOrder,Clear=id=searchItem,insertText=id=searchItem=12,click=id=Button1
+Initialize=Firefox,Goto=http://qc-wms.footballfanatics.com/,,,,,,,,,
+TestingTesting,Initialize=Firefox,Goto=http://qc-wms.footballfanatics.com/,,,,,,,,
+
+Receiving,Initialize=Firefox,Goto=http://qc-wms.footballfanatics.com/,Clear=id=txtUN,insertText=id=txtUN=PMUIR,Clear=id=txtPW,insertText=id=txtPW=1234,click=id=Button1,click=linkText=Begin Receiving,Clear=id=tbPONumber,insertText=id=tbPONumber=377732,click=id=btnSearch,Clear=id=tbQuantity3360853,insertText=id=tbQuantity3360853=5,Clear=id=tbAlu3360853,Clear=id=tbAlu3360853,click=id=btnAssignTote
